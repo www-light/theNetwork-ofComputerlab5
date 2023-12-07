@@ -1,3 +1,6 @@
+#https://github.com/www-light/theNetwork-ofComputerlab5
+#运行环境为python解释器3.10.6 64—bit,开发工具为visual stdio code
+
 import socket
 import threading
 from socket import *
